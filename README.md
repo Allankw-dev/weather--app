@@ -139,5 +139,5 @@ Uses the free OpenWeatherMap API:
 This project is open source and available for educational purposes.
 
 ---
-
+.
 **Enjoy using the Weather Forecast Application!** 🌤️
