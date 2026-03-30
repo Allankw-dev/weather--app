@@ -1,6 +1,6 @@
 # weather--app# Weather Forecast Application
 
-A fully functional Python weather application that fetches real-time weather data and forecasts using the OpenWeatherMap API..
+A fully functional Python weather application that fetches real-time weather data and forecasts using the OpenWeatherMap API...
 
 ## Features
 
